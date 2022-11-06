@@ -13,7 +13,7 @@ export class Movie {
   constructor(
     public title: string,
     public releaseYear: number,
-    public nationatily: string,
+    public nationality: string,
     public genre: string
   ) {}
 

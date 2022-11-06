@@ -35,4 +35,11 @@ console.log("\n--- :: Movies :: ---\n")
 movie1.actors = [elijah, cate];
 movie1.director = peter;
 movie1.writer = tolkien;
+movie1.distributor = "New Line Cinema";
+movie1.platform = "Amazon Prime";
+movie1.language = "english|spanish";
+movie1.mainCharacterName = "Frodo Baggins";
+movie1.producer = "Wingnut Films";
 movie1.printAllMovies();
+
+export { movie1 } 
