@@ -21,6 +21,7 @@ let peter = new Professional(
   0,
   "director"
 );
+
 console.log("\n--- :: Professionals :: ---\n")
 elijah.printAll();
 peter.printAll();
